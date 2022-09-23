@@ -67,8 +67,4 @@ public class UserService {
 		}
 		return false;
 	}
-	
-	public void tests() throws Exception {
-		
-	}
 }
